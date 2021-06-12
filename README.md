@@ -1,6 +1,14 @@
 # Activity-Lineups-App
 A react-native application that helps you to lineup your day to day activity
 
+## User Interface :-
+<div align="center">
+
+<img   src="https://github.com/kunal-j10/Todos-App/blob/master/Images/imageA.jpg"        width="210"   align="center">
+<img   src="https://github.com/kunal-j10/Todos-App/blob/master/Images/imageB.jpg"      width="210"   align="center" >
+</div>
+<br>
+
 ## Node pakages to install :-
 <br>
 
